@@ -12,6 +12,11 @@ body{
     justify-content: center;
     background-color: black;
 }
+
+.title{
+    color: white;
+    font-size: 20;
+}
 .greetings{
     font-size: 6rem;
     font-weight: 900;
